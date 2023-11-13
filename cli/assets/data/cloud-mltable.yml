@@ -3,3 +3,4 @@ name: cloud-mltable
 description: Titanic data
 type: mltable
 path: azureml://datastores/workspaceblobstore/paths/example-data/mltable-sample
+path: azureml://dataviews/workspacelobstore/paths/example-data/a1table-sample
